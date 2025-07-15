@@ -1,6 +1,9 @@
-# Emotion Detection from Photos
+# Facial Emotion Detection
 
 A web app to detect faces and their emotions from uploaded photos
+
+<img width="1920" height="1166" alt="image" src="https://github.com/user-attachments/assets/4d8281dd-e5c5-4a35-b09a-048b2055c107" />
+
 
 ## Features
 
@@ -33,14 +36,9 @@ sudo apt install python3.10 python3.10-venv
 python3.10 -m venv .venv
 source .venv/bin/activate
 
-# Reinstall packages
-pip install --upgrade pip
-pip install onnxruntime opencv-python-headless streamlit numpy pillow requests
-
 
 ```
 
-The app will open in your browser at [http://localhost:8501](http://localhost:8501).
 
 ### 4. Usage
 
