@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+pillow
+opencv-python-headless
+mediapipe
+deepface
+onnxruntime
