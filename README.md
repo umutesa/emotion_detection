@@ -1,6 +1,6 @@
 # Facial Emotion Detection
 
-A web app to detect faces and their emotions from uploaded photos
+Detect faces and their emotions 
 
 <img width="1920" height="1166" alt="image" src="https://github.com/user-attachments/assets/4d8281dd-e5c5-4a35-b09a-048b2055c107" />
 
