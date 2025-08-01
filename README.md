@@ -6,9 +6,14 @@ Detect faces and their emotions
 
 # Tools Used
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![OpenCV](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg)
-![MediaPipe](https://brandpnglogo.com/uploads/logo/mediapipe-dark-1024x1024.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="40"/>
+  <img src="https://brandpnglogo.com/uploads/logo/mediapipe-dark-1024x1024.png" alt="MediaPipe" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/FER_logo.svg" alt="FERPlus" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="40"/>
+  <img src="https://www.svgrepo.com/show/479333/face-recognition-1.svg" alt="Face Detection" height="40"/>
+</p>
 
 # About Project
 
