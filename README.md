@@ -4,6 +4,13 @@ Detect faces and their emotions
 
 <img width="1920" height="1166" alt="image" src="https://github.com/user-attachments/assets/4d8281dd-e5c5-4a35-b09a-048b2055c107" />
 
+# Tools Used
+
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![OpenCV](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg)
+![MediaPipe](https://brandpnglogo.com/uploads/logo/mediapipe-dark-1024x1024.png)
+
+# About Project
 
 ## Features
 
