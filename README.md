@@ -6,13 +6,12 @@ Detect faces and their emotions
 
 # Tools Used
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="40"/>
-  <img src="https://brandpnglogo.com/uploads/logo/mediapipe-dark-1024x1024.png" alt="MediaPipe" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/FER_logo.svg" alt="FERPlus" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="40"/>
-  <img src="https://www.svgrepo.com/show/479333/face-recognition-1.svg" alt="Face Detection" height="40"/>
+<p style="display: flex; justify-content: start; gap: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="60" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="60" width="50"/>
+  <img src="https://brandpnglogo.com/uploads/logo/mediapipe-dark-1024x1024.png" alt="MediaPipe" height="60" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/FER_logo.svg" alt="FERPlus" height="60" width="50"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="60" width="50"/>
 </p>
 
 # About Project
