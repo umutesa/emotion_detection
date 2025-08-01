@@ -9,7 +9,8 @@ Detect faces and their emotions
 <p style="display: flex; justify-content: start; gap: 55px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="100" width="120"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="100" width="120"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="100" width="120"/>
+  <img src="https://chuoling.github.io/mediapipe/images/logo_horizontal_color.png" alt="mediapipe" height="100" width="120"/>
+  <img src="https://pbs.twimg.com/media/GEkDY5DWsAA7b-5?format=jpg&name=4096x4096" alt="Deep Face" height="100" width="120"/>
 </p>
 
 # About Project
